@@ -17,3 +17,8 @@ a series of Python Practices
   
   
     find near root of a value.
+
+  5.imageAddnum.py
+  
+    draw a number on the image.
+  
