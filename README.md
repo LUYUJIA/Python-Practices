@@ -21,4 +21,8 @@ a series of Python Practices
   5.imageAddnum.py
   
     draw a number on the image.
+
+  6.Sort.py
+  
+    BubbleSort,SelectionSort,MergeSort
   
