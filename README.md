@@ -28,4 +28,4 @@ a series of Python Practices
   
   7.hibiware.zip
 
-    ひび割れ画像
+    ひび割れ画像
