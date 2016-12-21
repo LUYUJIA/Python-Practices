@@ -26,6 +26,7 @@ a series of Python Practices
   
     BubbleSort,SelectionSort,MergeSort
     
+  
   7.hibiware.zip
   
-   ひび割れ画像
+    ひび割れ画像
